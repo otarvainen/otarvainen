@@ -7,9 +7,9 @@ Passionate about crafting innovative spatial solutions and building user-friendl
 
 Most of my recent professional work involves corporate projects, which are protected by confidentiality agreements. However, here are some fun and educational projects I’ve worked on as learning experiences or personal exploration of GIS and full-stack development:
 
-- **[GeoSnake](https://geosnake.com)**  
+- **[GeoCobra](https://geocobra.com)**
    A snake game made with React and MapLibre GL.
-- **[karttoloita](https://karttoloita.com)**  
+- **[Karttoloita](https://karttoloita.com)**  
    A little SvelteKit project with MapLibre GL to visualize and search Finnish Forest Center open forestry data.
 
 ### 🛠️ Tech Stack
