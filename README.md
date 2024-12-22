@@ -10,7 +10,7 @@ Most of my recent professional work involves corporate projects, which are prote
 - **[GeoCobra](https://geocobra.com)**
    A snake game made with React and MapLibre GL.
 - **[Karttoloita](https://karttoloita.com)**  
-   A little SvelteKit project with MapLibre GL to visualize and search Finnish Forest Center open forestry data.
+   A little SvelteKit project with MapLibre GL on Finnish Forest Center open forestry data.
 
 ### 🛠️ Tech Stack
 - **Languages**: Python, JavaScript (Node.js, React), SQL
