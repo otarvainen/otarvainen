@@ -4,7 +4,7 @@
 Passionate about crafting innovative spatial solutions and building user-friendly applications to bring GIS data to life.
 
 ### 🛠️ Tech Stack
-- **Languages**: Python, TypeScript, JavaScript (Node.js, React), SQL, Golang
+- **Languages**: Python, TypeScript, JavaScript (Node.js, React, Svelte), SQL, Golang
 - **GIS Tools**: GDAL, PDAL, PostGIS, QGIS etc.
 - **Web Mapping**: OpenLayers, Maplibre GL
 - **Databases**: PostgreSQL, DuckDB
